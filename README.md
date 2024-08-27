@@ -3,9 +3,6 @@
 
 
 
-
-README dosyanızda bilgilerin düzgün ve okunabilir bir şekilde düzenlenmesi için Markdown formatını kullanabilirsiniz. İşte verdiğiniz metni daha düzenli ve profesyonel bir şekilde sunan bir README örneği:
-
 MyPortfolioUdemy
 Kişisel Portfolyo Sitesi
 
