@@ -3,10 +3,10 @@
 
 
 
-#Kişisel Portfolyo Sitesi
+Kişisel Portfolyo Sitesi
 Bu proje, Murat Yücedağ'ın sunduğu kapsamlı kurs sayesinde geliştirilmiştir. Kurs, modern web geliştirme tekniklerini kullanarak etkileyici ve fonksiyonel bir kişisel portföy sitesi oluşturmayı öğrenmenize yardımcı olmuştur.
 
-#📌 Projede Kullanılan Teknolojiler
+📌 Projede Kullanılan Teknolojiler
 ASP.NET MVC: Model-View-Controller (MVC) yapısını kullanarak uygulamanın yapı taşlarını organize eder.
 Razor View: Dinamik HTML içeriği oluşturmak için Razor motorunu kullanır, sayfa içindeki verilerin dinamik olarak işlenmesini sağlar.
 HTML5: Web sayfalarının yapısını tanımlar.
@@ -15,7 +15,7 @@ JavaScript: Dinamik ve etkileşimli özellikler ekler.
 Async/Await: Asenkron programlama modelini kullanarak verimli ve hızlı veri işleme sağlar.
 ASP.NET Componentleri: Web uygulamasının çeşitli bölümlerini ve işlevlerini kapsayan bileşenler.
 Partial Views: Sayfa içindeki tekrar eden veya bağımsız bölümleri yönetmek için kullanılan Razor bileşenleri.
-#📂 Özellikler
+📂 Özellikler
 Ana Sayfa: Kişisel bilgilerinizi ve projelerinizi özetleyen şık bir ana sayfa.
 Portföy Sayfası: Tamamlanmış projelerinizi detaylı bir şekilde sergiler.
 İletişim Sayfası: Kullanıcıların sizinle iletişime geçebileceği bir form ve sosyal medya bağlantılarınızı içerir.
