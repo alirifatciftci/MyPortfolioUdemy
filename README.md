@@ -4,20 +4,21 @@
 
 
 Kişisel Portfolyo Sitesi
-Bu proje, kişisel portfolyo sitesinin ASP.NET MVC ile geliştirilmiş bir örneğidir. Web uygulaması, modern web geliştirme teknolojilerini ve en iyi uygulamaları kullanarak kişisel projelerinizi, becerilerinizi ve iletişim bilgilerinizi etkili bir şekilde sergilemek için tasarlanmıştır.
+Bu proje, Murat Yücedağ'ın sunduğu kapsamlı kurs sayesinde geliştirilmiştir. Kurs, modern web geliştirme tekniklerini kullanarak etkileyici ve fonksiyonel bir kişisel portföy sitesi oluşturmayı öğrenmenize yardımcı olmuştur.
 
-TEKNOLOJİLER
+📌 Projede Kullanılan Teknolojiler
 ASP.NET MVC: Model-View-Controller (MVC) yapısını kullanarak uygulamanın yapı taşlarını organize eder.
-Razor View: Dinamik HTML içeriği oluşturmak için Razor motorunu kullanır.
+Razor View: Dinamik HTML içeriği oluşturmak için Razor motorunu kullanır, sayfa içindeki verilerin dinamik olarak işlenmesini sağlar.
 HTML5: Web sayfalarının yapısını tanımlar.
-CSS3: Sayfa stilini ve düzenini kontrol eder. Modern ve duyarlı tasarım uygulamaları içerir.
+CSS3: Sayfa stilini ve düzenini kontrol eder, modern ve duyarlı tasarım uygulamaları içerir.
 JavaScript: Dinamik ve etkileşimli özellikler ekler.
 Async/Await: Asenkron programlama modelini kullanarak verimli ve hızlı veri işleme sağlar.
-Özellikler
-Ana Sayfa: Kişisel bilgilerinizi ve projelerinizi tanıtan şık bir ana sayfa.
-Portföy Sayfası: Tamamlanmış projelerinizin detaylarını sergiler.
-İletişim Sayfası: Kullanıcıların sizinle iletişime geçebileceği bir form içerir. Sosyal medya bağlantılarınız burada yer alır.
-Duyarlı Tasarım: Farklı ekran boyutlarına uyum sağlayan modern ve kullanıcı dostu bir tasarım.
+ASP.NET Componentleri: Web uygulamasının çeşitli bölümlerini ve işlevlerini kapsayan bileşenler.
+Partial Views: Sayfa içindeki tekrar eden veya bağımsız bölümleri yönetmek için kullanılan Razor bileşenleri.
+📂 Özellikler
+Ana Sayfa: Kişisel bilgilerinizi ve projelerinizi özetleyen şık bir ana sayfa.
+Portföy Sayfası: Tamamlanmış projelerinizi detaylı bir şekilde sergiler.
+İletişim Sayfası: Kullanıcıların sizinle iletişime geçebileceği bir form ve sosyal medya bağlantılarınızı içerir.
 
 
 RESİMLER
